@@ -2,8 +2,4 @@ A collection of utility functions
 
 # Examples
 
-'''
-
-getRandomElement([1, 2, 3]);
-//=> 2
-,,,
+A happy face looks like this
